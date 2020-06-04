@@ -8,4 +8,3 @@ En eclipse crea un nuevo proyecto e importa los archivos de la carpeta en él (c
 
 Dale que si a sobreescribir el .project y el .classpath
 
-Rezo por que funcione
